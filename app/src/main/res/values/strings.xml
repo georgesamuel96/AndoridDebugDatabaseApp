@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Andorid Debug Database App</string>
+    <string name="write_here">write Name</string>
+    <string name="add_to_shared_preference">Add to Shared preference</string>
+    <string name="add_to_room_database">Add to Room Database</string>
+    <string name="show_list">Show List</string>
+</resources>
